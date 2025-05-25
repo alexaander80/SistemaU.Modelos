@@ -1,0 +1,12 @@
+C:\Users\ASUS\OneDrive\Herramientas de Programcion Tareas en Clase\SistemaU.Modelos\SistemaU.API.Consumer\bin\Debug\net8.0\SistemaU.API.Consumer.deps.json
+C:\Users\ASUS\OneDrive\Herramientas de Programcion Tareas en Clase\SistemaU.Modelos\SistemaU.API.Consumer\bin\Debug\net8.0\SistemaU.API.Consumer.dll
+C:\Users\ASUS\OneDrive\Herramientas de Programcion Tareas en Clase\SistemaU.Modelos\SistemaU.API.Consumer\bin\Debug\net8.0\SistemaU.API.Consumer.pdb
+C:\Users\ASUS\OneDrive\Herramientas de Programcion Tareas en Clase\SistemaU.Modelos\SistemaU.API.Consumer\obj\Debug\net8.0\SistemaU.API.Consumer.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\Herramientas de Programcion Tareas en Clase\SistemaU.Modelos\SistemaU.API.Consumer\obj\Debug\net8.0\SistemaU.API.Consumer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive\Herramientas de Programcion Tareas en Clase\SistemaU.Modelos\SistemaU.API.Consumer\obj\Debug\net8.0\SistemaU.API.Consumer.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive\Herramientas de Programcion Tareas en Clase\SistemaU.Modelos\SistemaU.API.Consumer\obj\Debug\net8.0\SistemaU.API.Consumer.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Herramientas de Programcion Tareas en Clase\SistemaU.Modelos\SistemaU.API.Consumer\obj\Debug\net8.0\SistemaU.API.Consumer.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Herramientas de Programcion Tareas en Clase\SistemaU.Modelos\SistemaU.API.Consumer\obj\Debug\net8.0\SistemaU.API.Consumer.dll
+C:\Users\ASUS\OneDrive\Herramientas de Programcion Tareas en Clase\SistemaU.Modelos\SistemaU.API.Consumer\obj\Debug\net8.0\refint\SistemaU.API.Consumer.dll
+C:\Users\ASUS\OneDrive\Herramientas de Programcion Tareas en Clase\SistemaU.Modelos\SistemaU.API.Consumer\obj\Debug\net8.0\SistemaU.API.Consumer.pdb
+C:\Users\ASUS\OneDrive\Herramientas de Programcion Tareas en Clase\SistemaU.Modelos\SistemaU.API.Consumer\obj\Debug\net8.0\ref\SistemaU.API.Consumer.dll

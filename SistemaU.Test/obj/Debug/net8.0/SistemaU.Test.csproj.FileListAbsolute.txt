@@ -1,0 +1,17 @@
+C:\Users\ASUS\OneDrive\Herramientas de Programcion Tareas en Clase\SistemaU.Modelos\SistemaU.Test\bin\Debug\net8.0\SistemaU.Test.deps.json
+C:\Users\ASUS\OneDrive\Herramientas de Programcion Tareas en Clase\SistemaU.Modelos\SistemaU.Test\bin\Debug\net8.0\SistemaU.Test.dll
+C:\Users\ASUS\OneDrive\Herramientas de Programcion Tareas en Clase\SistemaU.Modelos\SistemaU.Test\bin\Debug\net8.0\SistemaU.Test.pdb
+C:\Users\ASUS\OneDrive\Herramientas de Programcion Tareas en Clase\SistemaU.Modelos\SistemaU.Test\bin\Debug\net8.0\SistemaU.API.Consumer.dll
+C:\Users\ASUS\OneDrive\Herramientas de Programcion Tareas en Clase\SistemaU.Modelos\SistemaU.Test\bin\Debug\net8.0\SistemaU.Modelos.dll
+C:\Users\ASUS\OneDrive\Herramientas de Programcion Tareas en Clase\SistemaU.Modelos\SistemaU.Test\bin\Debug\net8.0\SistemaU.API.Consumer.pdb
+C:\Users\ASUS\OneDrive\Herramientas de Programcion Tareas en Clase\SistemaU.Modelos\SistemaU.Test\bin\Debug\net8.0\SistemaU.Modelos.pdb
+C:\Users\ASUS\OneDrive\Herramientas de Programcion Tareas en Clase\SistemaU.Modelos\SistemaU.Test\obj\Debug\net8.0\SistemaU.Test.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\Herramientas de Programcion Tareas en Clase\SistemaU.Modelos\SistemaU.Test\obj\Debug\net8.0\SistemaU.Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive\Herramientas de Programcion Tareas en Clase\SistemaU.Modelos\SistemaU.Test\obj\Debug\net8.0\SistemaU.Test.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive\Herramientas de Programcion Tareas en Clase\SistemaU.Modelos\SistemaU.Test\obj\Debug\net8.0\SistemaU.Test.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Herramientas de Programcion Tareas en Clase\SistemaU.Modelos\SistemaU.Test\obj\Debug\net8.0\SistemaU.Test.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Herramientas de Programcion Tareas en Clase\SistemaU.Modelos\SistemaU.Test\obj\Debug\net8.0\SistemaU.Test.csproj.CopyComplete
+C:\Users\ASUS\OneDrive\Herramientas de Programcion Tareas en Clase\SistemaU.Modelos\SistemaU.Test\obj\Debug\net8.0\SistemaU.Test.dll
+C:\Users\ASUS\OneDrive\Herramientas de Programcion Tareas en Clase\SistemaU.Modelos\SistemaU.Test\obj\Debug\net8.0\refint\SistemaU.Test.dll
+C:\Users\ASUS\OneDrive\Herramientas de Programcion Tareas en Clase\SistemaU.Modelos\SistemaU.Test\obj\Debug\net8.0\SistemaU.Test.pdb
+C:\Users\ASUS\OneDrive\Herramientas de Programcion Tareas en Clase\SistemaU.Modelos\SistemaU.Test\obj\Debug\net8.0\ref\SistemaU.Test.dll

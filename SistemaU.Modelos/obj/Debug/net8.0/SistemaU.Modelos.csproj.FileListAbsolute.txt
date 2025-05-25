@@ -1,0 +1,11 @@
+C:\Users\ASUS\OneDrive\Herramientas de Programcion Tareas en Clase\SistemaU.Modelos\SistemaU.Modelos\bin\Debug\net8.0\SistemaU.Modelos.deps.json
+C:\Users\ASUS\OneDrive\Herramientas de Programcion Tareas en Clase\SistemaU.Modelos\SistemaU.Modelos\bin\Debug\net8.0\SistemaU.Modelos.dll
+C:\Users\ASUS\OneDrive\Herramientas de Programcion Tareas en Clase\SistemaU.Modelos\SistemaU.Modelos\bin\Debug\net8.0\SistemaU.Modelos.pdb
+C:\Users\ASUS\OneDrive\Herramientas de Programcion Tareas en Clase\SistemaU.Modelos\SistemaU.Modelos\obj\Debug\net8.0\SistemaU.Modelos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive\Herramientas de Programcion Tareas en Clase\SistemaU.Modelos\SistemaU.Modelos\obj\Debug\net8.0\SistemaU.Modelos.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive\Herramientas de Programcion Tareas en Clase\SistemaU.Modelos\SistemaU.Modelos\obj\Debug\net8.0\SistemaU.Modelos.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Herramientas de Programcion Tareas en Clase\SistemaU.Modelos\SistemaU.Modelos\obj\Debug\net8.0\SistemaU.Modelos.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Herramientas de Programcion Tareas en Clase\SistemaU.Modelos\SistemaU.Modelos\obj\Debug\net8.0\SistemaU.Modelos.dll
+C:\Users\ASUS\OneDrive\Herramientas de Programcion Tareas en Clase\SistemaU.Modelos\SistemaU.Modelos\obj\Debug\net8.0\refint\SistemaU.Modelos.dll
+C:\Users\ASUS\OneDrive\Herramientas de Programcion Tareas en Clase\SistemaU.Modelos\SistemaU.Modelos\obj\Debug\net8.0\SistemaU.Modelos.pdb
+C:\Users\ASUS\OneDrive\Herramientas de Programcion Tareas en Clase\SistemaU.Modelos\SistemaU.Modelos\obj\Debug\net8.0\ref\SistemaU.Modelos.dll

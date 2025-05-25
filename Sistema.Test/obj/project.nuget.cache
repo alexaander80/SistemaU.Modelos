@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "nts7i68TAc5Ii3QsI1adaiv+27437PZdAhST9E5sq7f9tIjM3iLl9CHlOdLUlvY99hxtguRoubunlQpNYPyTGQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ASUS\\OneDrive\\Herramientas de Programcion Tareas en Clase\\SistemaU.Modelos\\Sistema.Test\\Sistema.Test.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ASUS\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
